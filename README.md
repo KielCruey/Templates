@@ -1,0 +1,4 @@
+For template studies, I use [C++ Templates: The Complete Guide](https://www.amazon.com/C-Templates-Complete-Guide-2nd/dp/0321714121) for the majority for my reference material. 
+
+# Function Templates
+To understand function templates, the concepts of [decay](https://64.github.io/cpp-faq/decay/#:~:text=When%20we%20call%20functions%20in,conversions%20rules%20are%20called%20decay.) and [decltype](https://learn.microsoft.com/en-us/cpp/cpp/decltype-cpp?view=msvc-170) should be familiar. If not, use more than these reference material research the ideas before diving into function templates. Decay and decltype are foundations to function templates.
